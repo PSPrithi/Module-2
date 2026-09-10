@@ -11,13 +11,14 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-
+~~~
 def result(a, b):
     print("Modulo is:", a % b)
 
 x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
 result(x, y)
+~~~
 
 ## Output
 <img width="695" height="362" alt="image" src="https://github.com/user-attachments/assets/7070fb03-d52e-46aa-bd99-c2e35defcb1c" />
